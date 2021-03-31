@@ -22,7 +22,9 @@ namespace OdeToFood.Data
             {
                 new Restaurant() {Id=1,Name="Tangra Masala",Location="New York", Cusine=CusineType.Indian},
                 new Restaurant() {Id=2, Name="Dominos", Location="Delhi", Cusine=CusineType.Indian},
-                new Restaurant() {Id=3, Name="Hudson Chopsticks",Location="Hudson Lane",Cusine=CusineType.Mexican}
+                new Restaurant() {Id=3, Name="Hudson Chopsticks",Location="Hudson Lane",Cusine=CusineType.Mexican},
+                new Restaurant() {Id=2, Name="Pizza hut", Location="Delhi", Cusine=CusineType.Indian},
+                new Restaurant() {Id=3, Name="Yo China!",Location="Rajori Gardan",Cusine=CusineType.Chinese}
             };
 
         }
